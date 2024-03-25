@@ -1,4 +1,4 @@
-<h1>SQL Data Exploration - Covid</h1>
+<h1>Tableau Dashboard - Bristish Airways Review</h1>
 
 <a href="https://public.tableau.com/app/profile/jordan.robertson/viz/BritishAirwaysReview_17113579229380/Dashboard1?publish=yes">View Dashboard on Tableau Public</a>
 
